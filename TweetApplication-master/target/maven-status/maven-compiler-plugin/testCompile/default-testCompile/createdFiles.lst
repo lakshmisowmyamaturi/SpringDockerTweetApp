@@ -1,0 +1,6 @@
+com\tweetapp\controller\TweetsControllerTest.class
+com\tweetapp\TweetAppApplicationTests.class
+com\tweetapp\config\TweetConfigTest.class
+com\tweetapp\service\TweetsServiceImplTest.class
+com\tweetapp\service\UsersServiceImplTest.class
+com\tweetapp\controller\UsersControllerTest.class
